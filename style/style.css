@@ -360,6 +360,7 @@ body {
   width: 120px;
   height: 57px;
   border-radius: 8px;
+  border: 1px solid rgba(13, 19, 33, 0.15);
   background-color: rgb(255, 255, 255);
   padding: 17px 20px;
   color: rgb(13, 19, 33);
